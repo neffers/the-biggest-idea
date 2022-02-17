@@ -2,7 +2,7 @@
 For Pitt's CMPINF0010 Class
 
 ## What our python program does
-lorem ipsum
+The program prompts the user for a name input and their favorite number. Then the program tells whether the number is prime or not.
 
 ## Contributing Members
 Jordan Brudenell
