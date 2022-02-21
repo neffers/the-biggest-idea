@@ -5,5 +5,5 @@ For Pitt's CMPINF0010 Class
 The program prompts the user for a name input and their favorite number. Then the program tells whether the number is prime or not.
 
 ## Contributing Members
-Jordan Brudenell
+Jordan Brudenell (jbb65)
 Erin Dougal
