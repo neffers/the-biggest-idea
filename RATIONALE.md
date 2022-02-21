@@ -1,5 +1,5 @@
-#Rationale
-##License
+# Rationale
+## License
 lorem ipsum
-##Code of Conduct
+## Code of Conduct
 lorem ipsum
