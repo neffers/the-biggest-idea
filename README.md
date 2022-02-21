@@ -6,4 +6,5 @@ The program prompts the user for a name input and their favorite number. Then th
 
 ## Contributing Members
 Jordan Brudenell (jbb65)
+
 Erin Dougal
