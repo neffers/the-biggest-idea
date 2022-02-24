@@ -1,4 +1,4 @@
-# Friendly Conduct
+# Code of Conduct
 This project encourages contributions from anyone who wishes to advance the development of the project.
 ## Guidelines
 * Please assume other participants are posting in good faith, even if you disagree with what they say. When people present code or text as their own work, please accept it as their work. Please do not criticize people for wrongs that you only speculate they may have done; stick to what they actually say and actually do.
