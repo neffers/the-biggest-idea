@@ -12,7 +12,7 @@ If you wish to contribute to the project, simply make a pull request and we will
 
 ## Rationale
 ### License
-lorem ipsum
+The license implemented in this project is a standard MIT License. I implemented this license since it grants anyone who obtains a copy of the files the ability to use, modify, and distribute copies of them. It has very few restrictions on reusing the material, and also has high license compatibility. The copyright and license notices must be preserved, but modifications may be distributed with different terms and different source code.
 
 ### Code of Conduct
 Rather than attempting to re-invent the wheel, I did some research into various codes of conduct.
