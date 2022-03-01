@@ -7,6 +7,9 @@ The program prompts the user for a name input and their favorite number. Then th
 ## Requirements
 Because the program is written in a Jupyter notebook, it is recommended that you open it via Jupyter. Please see [https://jupyter.org/](https://jupyter.org/) for more information.
 
+## Contributing
+If you wish to contribute to the project, simply make a pull request and we will review the code.
+
 ## Rationale
 ### License
 lorem ipsum
